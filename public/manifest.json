@@ -1,0 +1,31 @@
+{
+  "name": "Civics Prep — Citizenship Test Study",
+  "short_name": "Civics Prep",
+  "description": "Study and track your progress on the 128 official USCIS civics test questions.",
+  "start_url": "/civics-prep/",
+  "scope": "/civics-prep/",
+  "display": "standalone",
+  "background_color": "#1B2A3C",
+  "theme_color": "#1B2A3C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/civics-prep/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/civics-prep/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/civics-prep/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
